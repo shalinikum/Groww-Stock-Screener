@@ -4,7 +4,7 @@ import Filetrdata from "./Filetrdata";
 
 const Filter = () =>{
  <div>
-  <CustomFilter/>
+  {/* <CustomFilter/> */}
   <Filetrdata/>
  </div>
 }
